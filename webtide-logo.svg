@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="webtide-logo.svg">
+   sodipodi:docname="webtide-logo.svg"
+   inkscape:export-filename="/home/joakim/code/webtide/logos/webtide-logo-600px.png"
+   inkscape:export-xdpi="48.470001"
+   inkscape:export-ydpi="48.470001">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -23,11 +26,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.79440329"
-     inkscape:cx="570.59075"
-     inkscape:cy="122.11911"
+     inkscape:cx="351.55842"
+     inkscape:cy="119.6015"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
